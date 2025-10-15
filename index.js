@@ -28,7 +28,69 @@ const Speaker=require("./models/speaker.models")
 
 intializeDatabase()
 
+<<<<<<< HEAD
 
+=======
+// async function seedData(){
+
+//     try{
+//         for (const eventData of eventsData) {
+            
+             
+//                 const speakerIds = await eventData.speakers
+//                     .map(speakerObj => speakerObj.type)
+//                     .filter(id => id);
+                
+                
+//                 const newEvent = new Event({
+//                     title: eventData.title,
+//                     eventType: eventData.eventType,
+//                     hostedBy: eventData.hostedBy,
+//                     price: eventData.price,
+//                     startDate: eventData.startDate,
+//                     endData: eventData.endData,
+//                     location: eventData.location,
+//                     details: eventData.details,
+//                     additionalInfo: eventData.additionalInfo,
+//                     eventTags: eventData.eventTags,
+//                     imageUrl: eventData.imageUrl,
+//                     speakers: speakerIds 
+//                 })
+//                  await newEvent.save(); 
+//                 console.log(`Data seeded successfully for event: ${newEvent.title}`)
+
+
+//     }}
+//     catch (error){
+//         console.log("Error seeding the data",error)
+//     }
+// }
+// seedData()
+// async function seedSpeakersData(){
+//     try{
+
+//         for (const speakerData of speakersData) {
+            
+//             const newSpeaker = new Speaker({
+//                 name: speakerData.name,
+//                 role: speakerData.role,
+//                 photo: speakerData.photo,
+               
+//             });
+
+          
+//             await newSpeaker.save();
+//             console.log(`Seeded speaker: ${newSpeaker.name}`);
+//         }
+//         console.log("Speaker data seeding complete.");
+
+//     } catch (error) {
+//         console.error("Error seeding speaker data:", error.message);
+//     }
+// }
+
+// seedSpeakersData()
+>>>>>>> bc9b1374a4cbe90121508d8bc73df58f34e4f410
 
 
 const readAllevents=async()=>{
