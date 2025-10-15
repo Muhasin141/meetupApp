@@ -28,7 +28,10 @@ const Speaker=require("./models/speaker.models")
 
 intializeDatabase()
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 538c633b5339ecee74a1f75d6392a185def3fabe
 
 
 const readAllevents=async()=>{
