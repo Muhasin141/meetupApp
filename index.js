@@ -103,7 +103,7 @@ const readAllevents=async()=>{
     }
 }
 
-app.get("/events",async(req,res)=>{
+app.get("/",async(req,res)=>{
 
     try{
 
