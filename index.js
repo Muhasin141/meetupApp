@@ -28,10 +28,7 @@ const Speaker=require("./models/speaker.models")
 
 intializeDatabase()
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 538c633b5339ecee74a1f75d6392a185def3fabe
 
 
 const readAllevents=async()=>{
@@ -66,7 +63,7 @@ app.get("/",async(req,res)=>{
 const getEventDataByName=async(eventId)=>{
 
     try{
-    const event= await Event.findById(eventId)
+    const event= await Event.findById(eventId).populate("speakers")
 
     return event
     }catch(error){
@@ -78,8 +75,9 @@ const getEventDataByName=async(eventId)=>{
 
 app.get("/events/:eventId",async (req,res)=>{
     try{
-      
-        const event=await getEventDataByName(req.params.eventId).populate('speakers')
+        
+
+        const event=await getEventDataByName(req.params.eventId)
         res.json(event)
         
     }catch(error){
