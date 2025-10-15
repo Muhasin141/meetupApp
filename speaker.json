@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "66f7f63198f1f7d54d19315d",
+    "name": "Sarah Johnson",
+    "role": "Marketing Manager",
+    "photo": "https://images.pexels.com/photos/5477879/pexels-photo-5477879.jpeg"
+  },
+  {
+    "_id": "66f7f63198f1f7d54d19315e",
+    "name": "Michael Brown",
+    "role": "SEO Specialist",
+    "photo": "https://images.pexels.com/photos/16771673/pexels-photo-16771673.jpeg"
+  },
+  {
+    "_id": "66f7f63198f1f7d54d19316a",
+    "name": "Dr. Alex Abr",
+    "role": "Chief Data Scientist",
+    "photo": "https://images.pexels.com/photos/31623365/pexels-photo-31623365.jpeg"
+  },
+  {
+    "_id": "66f7f63198f1f7d54d19316b",
+    "name": "Emily Rios",
+    "role": "Senior UX Designer",
+    "photo": "https://images.pexels.com/photos/10953168/pexels-photo-10953168.jpeg"
+  },
+  {
+    "_id": "66f7f63198f1f7d54d19316c",
+    "name": "Javier Lopez",
+    "role": "Financial Consultant",
+    "photo": "https://images.pexels.com/photos/15309225/pexels-photo-15309225.jpeg"
+  },
+  {
+    "_id": "66f7f63198f1f7d54d19316d",
+    "name": "Priya Sharma",
+    "role": "Cloud Solutions Architect",
+    "photo": "https://images.pexels.com/photos/1520760/pexels-photo-1520760.jpeg"
+  },
+  {
+    "_id": "66f7f63198f1f7d54d19316e",
+    "name": "Ben Carter",
+    "role": "Lead Photography Educator",
+    "photo": "https://speakers.example.com/ben-carter.jpg"
+  },
+  {
+    "_id": "66f7f63198f1f7d54d19316f",
+    "name": "Linda Wu",
+    "role": "AI Ethics Researcher",
+    "photo": "https://images.pexels.com/photos/6009519/pexels-photo-6009519.jpeg"
+  }
+]

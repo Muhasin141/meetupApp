@@ -1,0 +1,150 @@
+[
+  
+  {
+    "title": "Marketing Seminar",
+    "eventType": "Offline Event",
+    "hostedBy": "Marketing Experts",
+    "price": 3000,
+    "startDate": "2023-08-15T04:30:00.000Z",
+    "endData": "2023-08-15T06:30:00.000Z",
+    "location": {
+      "name": "Marketing City",
+      "address": "789 Marketing Avenue, City"
+    },
+    "details": "Stay ahead of the game in the dynamic field of digital marketing by attending the Marketing Seminar organized by Marketing Experts. This offline seminar will be held on August 15th from 10:00 AM to 12:00 PM at Marketing City, situated at 789 Marketing Avenue, City. Join industry leaders Sarah Johnson, Marketing Manager, and Michael Brown, SEO Specialist, as they delve into the latest trends and strategies in digital marketing. The seminar is open to individuals aged 18 and above and requires a ticket priced at ₹3,000.",
+    "additionalInfo": {
+      "dressCode": "Smart Casual",
+      "ageRestrictions": "18 and above"
+    },
+    "speakers": [
+      { "type": "66f7f63198f1f7d54d19315d" },
+      { "type": "66f7f63198f1f7d54d19315e" }
+    ],
+    "eventTags": [ "marketing", "digital" ],
+    "imageUrl": "https://images.pexels.com/photos/8761527/pexels-photo-8761527.jpeg"
+  },
+
+ 
+  {
+    "title": "Tech Conference",
+    "eventType": "Offline Event",
+    "hostedBy": "Future Innovations Inc.",
+    "price": 5000,
+    "startDate": "2023-07-13T01:30:00.000Z",
+    "endData": "2023-07-13T09:30:00.000Z",
+    "location": {
+      "name": "The Innovation Hub",
+      "address": "100 Tech Park Avenue, Silicon Valley, CA"
+    },
+    "details": "A full-day event covering the latest trends in AI, Machine Learning, and Cloud Computing. Join industry leaders for keynotes and breakout sessions.",
+    "additionalInfo": {
+      "dressCode": "Business Casual",
+      "ageRestrictions": "18 and above"
+    },
+    "speakers": [
+      { "type": "66f7f63198f1f7d54d19316a" }
+    ],
+    "eventTags": [ "tech", "ai", "conference" ],
+    "imageUrl": "https://images.pexels.com/photos/4344617/pexels-photo-4344617.jpeg"
+  },
+
+ 
+  {
+    "title": "Design Workshop",
+    "eventType": "Offline Event",
+    "hostedBy": "Creative Minds Studio",
+    "price": 1500,
+    "startDate": "2023-07-10T08:30:00.000Z",
+    "endData": "2023-07-10T11:30:00.000Z",
+    "location": {
+      "name": "Studio 4B",
+      "address": "45 Design Street, Art District, NY"
+    },
+    "details": "An intensive 3-hour session focused on advanced UI/UX principles and modern design thinking strategies. Bring your own laptop and portfolio.",
+    "additionalInfo": {
+      "dressCode": "Casual",
+      "ageRestrictions": "No Age Restriction"
+    },
+    "speakers": [
+      { "type": "66f7f63198f1f7d54d19316b" }
+    ],
+    "eventTags": [ "design", "ui/ux", "workshop" ],
+    "imageUrl": "https://images.pexels.com/photos/7256897/pexels-photo-7256897.jpeg"
+  },
+
+  
+  {
+    "title": "Data Science Seminar",
+    "eventType": "Offline Event",
+    "hostedBy": "Data Insights Collective",
+    "price": 2500,
+    "startDate": "2023-08-05T09:00:00.000Z",
+    "endData": "2023-08-05T13:00:00.000Z",
+    "location": {
+      "name": "The Research Center",
+      "address": "20 Data Flow Street, Research Park, TX"
+    },
+    "details": "A deep dive into advanced statistical modeling and machine learning applications. This seminar is perfect for analysts and data professionals looking to upskill.",
+    "additionalInfo": {
+      "dressCode": "Smart Casual",
+      "ageRestrictions": "18 and above"
+    },
+    "speakers": [
+      { "type": "66f7f63198f1f7d54d19316d" },
+      {"type":"66f7f63198f1f7d54d19316f"}
+    ],
+    "eventTags": [ "data science", "machine learning", "analytics" ],
+    "imageUrl": "https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg"
+  },
+
+  
+  {
+    "title": "Digital Photography Workshop",
+    "eventType": "Online Event",
+    "hostedBy": "Shutterbug Academy",
+    "price": 800,
+    "startDate": "2023-09-15T15:00:00.000Z",
+    "endData": "2023-09-15T17:00:00.000Z",
+    "location": {
+      "name": "Virtual Classroom",
+      "address": "N/A - Online Workshop"
+    },
+    "details": "Master the basics of composition, lighting, and post-processing techniques from the comfort of your home. All skill levels are welcome.",
+    "additionalInfo": {
+      "dressCode": "No dress Code",
+      "ageRestrictions": "No Age Restriction"
+    },
+    "speakers": [
+      { "type": "66f7f63198f1f7d54d19316e" }
+    ],
+    "eventTags": [ "photography", "digital", "art" ],
+    "imageUrl": "https://images.pexels.com/photos/4270230/pexels-photo-4270230.jpeg"
+  },{
+  "title": "Achieving Financial Success",
+  "eventType": "Online Event",
+  "hostedBy": "Wealth Builders Group",
+  "price": 0,
+  "startDate": "2023-09-01T14:30:00.000Z",
+  "endData": "2023-09-01T15:30:00.000Z",  
+  "location": {
+    "name": "Virtual Webinar Room",
+    "address": "N/A - Online Event" 
+  },
+  "details": "Learn the secrets to financial freedom and building passive income streams in this free, power-packed webinar. Registration is required to receive the streaming link.",
+  "additionalInfo": {
+    "dressCode": "No dress Code",
+    "ageRestrictions": "No Age Restriction"
+  },
+  "speakers": [
+    {
+        "type":"66f7f63198f1f7d54d19316c"
+    }
+  ], 
+  "eventTags": [
+    "finance",
+    "wealth",
+    "webinar"
+  ],
+  "imageUrl": "https://images.pexels.com/photos/7567565/pexels-photo-7567565.jpeg"
+}
+]
